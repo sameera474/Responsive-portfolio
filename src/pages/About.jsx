@@ -14,8 +14,8 @@ const About = () => {
             ></img>
           </Grid>
           <Grid xs={12} sm={8}>
-            <Typography variant="h4" paragraph>
-              About me
+            <Typography variant="h5" paragraph>
+              ABOUT ME
             </Typography>
             <Typography variant="body1" paragraph>
               I'm a Full-stack web developer based in Finland, crafting digital
