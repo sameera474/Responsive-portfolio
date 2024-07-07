@@ -17,7 +17,7 @@ const projects = [
     id: 1,
     title: "Project 1",
     description: "Project description",
-    imgSrc: "../../src/images/project-1.png",
+    imgSrc: "../../src/images/GameProject.png",
   },
   {
     id: 2,
