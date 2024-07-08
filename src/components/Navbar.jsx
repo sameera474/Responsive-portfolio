@@ -14,7 +14,6 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
-import { red } from "@mui/material/colors";
 
 const drawerWidth = 240;
 const navItems = ["Home", "About", "Portfolio", "Contact"];
@@ -49,9 +48,9 @@ function DrawerAppBar(props) {
     window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <Box sx={{ display: "flex", paddingBottom: 8, bgcolor: red }}>
+    <Box sx={{ display: "flex", paddingBottom: 8, color: "transperent" }}>
       <CssBaseline />
-      <AppBar component="nav">
+      <AppBar component="nav" style={{ bgcolor: "transperent" }}>
         <Toolbar>
           <IconButton
             color="inherit"
