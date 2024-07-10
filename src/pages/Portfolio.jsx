@@ -29,7 +29,7 @@ const projects = [
     id: 3,
     title: "Project 3",
     description: "Project description",
-    imgSrc: "../../src/images/project-3.png",
+    imgSrc: "../../src/images/Weather-Dashboard-Application.png",
   },
   {
     id: 4,
