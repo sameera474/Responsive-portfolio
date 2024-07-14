@@ -15,7 +15,7 @@ import React from "react";
 const projects = [
   {
     id: 1,
-    title: "Project 1",
+    title: "Memory Game",
     description: "Project description",
     imgSrc: "../../src/images/GameProject.png",
   },
