@@ -21,7 +21,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Project 2",
+    title: "Wacky Tales Weaver Game",
     description: "Project description 2",
     imgSrc: "../../src/images/Project---Wacky-Tales-Weaver.png",
   },
