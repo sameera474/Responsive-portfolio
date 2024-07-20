@@ -27,7 +27,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Project 3",
+    title: "Weather Dashboard Application",
     description: "Project description",
     imgSrc: "../../src/images/Weather-Dashboard-Application.png",
   },
