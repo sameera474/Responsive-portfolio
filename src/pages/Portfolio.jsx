@@ -16,7 +16,7 @@ const projects = [
   {
     id: 1,
     title: "Memory Game",
-    description: "Project description",
+    description: "Create a Memory puzzle game (HTML, CSS and JavaScript)",
     imgSrc: "../../src/images/GameProject.png",
   },
   {
