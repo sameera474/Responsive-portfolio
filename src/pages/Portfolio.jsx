@@ -22,7 +22,7 @@ const projects = [
   {
     id: 2,
     title: "Wacky Tales Weaver Game",
-    description: "Project description 2",
+    description: "Wacky Tales Weaver Game (HTML, CSS and JavaScript)",
     imgSrc: "../../src/images/Project---Wacky-Tales-Weaver.png",
   },
   {
