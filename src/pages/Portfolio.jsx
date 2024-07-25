@@ -28,7 +28,8 @@ const projects = [
   {
     id: 3,
     title: "Weather Dashboard Application",
-    description: "Project description",
+    description:
+      "Weather Dashboard Application Using (HTML, CSS and JavaScript)",
     imgSrc: "../../src/images/Weather-Dashboard-Application.png",
   },
   {
