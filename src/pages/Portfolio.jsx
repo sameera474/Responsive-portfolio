@@ -34,7 +34,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Project 4",
+    title: "E commerse website",
     description: "Project description 2",
     imgSrc: "../../src/images/project-4.png",
   },
